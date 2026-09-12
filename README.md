@@ -10,7 +10,9 @@
 
 ### 🚀 About Me
 
-Software Engineering student at FAST-NUCES focused on AI/ML, Generative AI, and intelligent software systems. I build practical AI applications and end-to-end ML pipelines using Python.
+I have a strong interest in AI/ML, Generative AI, and intelligent software systems.
+I enjoy building end-to-end AI applications — from data preprocessing and model development to real-time inference and deployment. My work includes machine learning, deep learning, computer vision, LLM integration, and backend development.
+
 
 🔭 &nbsp;I'm currently working on **A RAG-powered document chatbot using Python and LangChain for conversational Q&amp;A over documents.**  
 🌱 &nbsp;I'm currently learning **RAG, LangChain, LLM applications**  
