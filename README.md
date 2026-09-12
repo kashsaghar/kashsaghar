@@ -8,17 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=Software%20Engineering%20Student%20%7C%20AI%2FML%20%26%20GenAI;Building%20AI%20applications%2C%20ML%20pipelines%20%26%20intelligent%20systems" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 I have a strong interest in AI/ML, Generative AI, and intelligent software systems.
 I enjoy building end-to-end AI applications — from data preprocessing and model development to real-time inference and deployment. My work includes machine learning, deep learning, computer vision, LLM integration, and backend development.
 
 
-🔭 &nbsp;I'm currently working on **A RAG-powered document chatbot using Python and LangChain for conversational Q&amp;A over documents.**  
-🌱 &nbsp;I'm currently learning **RAG, LangChain, LLM applications**  
-⚡ &nbsp;Fun fact: **I’m at my most productive when I have a good playlist, a cup of tea, and a problem to solve.**
+ &nbsp;I'm currently working on **A RAG-powered document chatbot using Python and LangChain for conversational Q&amp;A over documents.**  
+ &nbsp;I'm currently learning **RAG, LangChain, LLM applications**  
+ &nbsp;Fun fact: **I’m at my most productive when I have a good playlist, a cup of tea, and a problem to solve.**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
